@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+.event .T1{
+	text-align: left;
+	font-size: 40px;
+	font-weight: bold;
+	font-family:cursive;
+	padding: 10px;
+	text-indent: 40px;
+	clear:both;
+/*	border:5px solid #000;*/
+	
+}
+
+.mkimg{	
+	margin: 1% 2% 1% 1%;
+	width:35%;
+	height:auto;
+	display:block;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	float: left;
+}
+
+.T3{
+	font-size: 30px;
+	font-family:cursive;
+	padding:5px;
+	line-height:1.8;
+}
+.T2{
+	text-align: left;
+	font-size: 35px;
+	font-weight: bold;
+	font-family:cursive;
+	padding: 10px;
+	text-indent: 40px;
+	clear:both;
+}
